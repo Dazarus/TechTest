@@ -1,0 +1,22 @@
+{
+  "name": "playwright-electron-cucumber-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:app": "echo 'Run npm install inside your Electron app folder (shopping-electron) before running tests'",
+    "test": "cucumber-js",
+    "test:parallel": "cucumber-js --parallel 2",
+    "test:tags": "cucumber-js --tags",
+    "test:report": "cucumber-js --format html:reports/cucumber-report.html",
+    "test:products": "cucumber-js features/products.feature",
+    "test:checkout": "cucumber-js features/checkout.feature",
+    "test:e2e": "cucumber-js --tags @e2e"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "@playwright/test": "^1.40.0",
+    "electron": "^38.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
