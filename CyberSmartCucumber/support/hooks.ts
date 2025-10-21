@@ -28,7 +28,7 @@ Before(async function (this: ICustomWorld, { pickle }) {
   console.log(`\n📝 Starting scenario: ${pickle.name}`);
   
   // Path to your Electron app directory
-  const appPath = process.env.APP_PATH || path.resolve(__dirname, '../shopping-electron');
+  const appPath = process.env.APP_PATH || path.resolve(__dirname, '../../shopping-electron');
   
   console.log('🚀 Launching Electron app from:', appPath);
   
