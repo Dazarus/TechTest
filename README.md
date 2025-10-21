@@ -1,4 +1,4 @@
-In this project there are 2 frameworks, one which is JS with playwright wrapped in cucumber, the second is just a simple ts and playwright framework
+In this project there are 2 frameworks, one which is TS with playwright wrapped in cucumber, the second is just a simple TS and playwright framework
 Each framework has it's own readme.
 You will need to put the app folder at the same level as the 2 frameworks or change the path to be absolute. 
 I have also included a ps script for installing the electron app on a VM.
