@@ -1,0 +1,17 @@
+{
+  "name": "playwright-electron-tests",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "install:app": "echo 'Run `npm install` inside your Electron app folder (shopping-electron) before running tests'",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "PWDEBUG=1 playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "electron": "^38.3.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\products.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\products.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\checkout.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\checkout.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\pages\\CheckoutPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\pages\\CheckoutPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\pages\\ProductsPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\pages\\ProductsPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\fixtures\\electron-fixture.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\fixtures\\electron-fixture.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\electron.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\electron.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\playwright.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:playwright.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "checkout.test.ts",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\checkout.test.ts",
+              "RelativeDocumentMoniker": "tests\\checkout.test.ts",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\checkout.test.ts",
+              "RelativeToolTip": "tests\\checkout.test.ts",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAD4BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-19T08:33:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsPage.ts",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\pages\\ProductsPage.ts",
+              "RelativeDocumentMoniker": "tests\\pages\\ProductsPage.ts",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\pages\\ProductsPage.ts",
+              "RelativeToolTip": "tests\\pages\\ProductsPage.ts",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAMwCcBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-19T08:28:00.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "products.test.ts",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\products.test.ts",
+              "RelativeDocumentMoniker": "tests\\products.test.ts",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\products.test.ts",
+              "RelativeToolTip": "tests\\products.test.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-19T08:29:26.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "electron-fixture.ts",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\fixtures\\electron-fixture.ts",
+              "RelativeDocumentMoniker": "tests\\fixtures\\electron-fixture.ts",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\fixtures\\electron-fixture.ts",
+              "RelativeToolTip": "tests\\fixtures\\electron-fixture.ts",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-18T09:35:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "playwright.config.ts",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\playwright.config.ts",
+              "RelativeDocumentMoniker": "playwright.config.ts",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\playwright.config.ts",
+              "RelativeToolTip": "playwright.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-19T08:30:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "electron.test.ts",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\electron.test.ts",
+              "RelativeDocumentMoniker": "tests\\electron.test.ts",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\electron.test.ts",
+              "RelativeToolTip": "tests\\electron.test.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-18T09:36:17.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T08:31:07.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T08:31:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T08:30:37.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ef262560-c4e9-40f7-9cbe-04bd14262681",
+        "Display": 1,
+        "X": 548,
+        "Y": 297,
+        "Width": 1377,
+        "Height": 740,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutPage.ts",
+              "DocumentMoniker": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\pages\\CheckoutPage.ts",
+              "RelativeDocumentMoniker": "tests\\pages\\CheckoutPage.ts",
+              "ToolTip": "C:\\Users\\damie\\Documents\\Cybersmart\\playwright-electron-framework\\tests\\pages\\CheckoutPage.ts",
+              "RelativeToolTip": "tests\\pages\\CheckoutPage.ts",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvy4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-19T08:34:01.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
